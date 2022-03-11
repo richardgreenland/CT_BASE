@@ -541,7 +541,7 @@ html,body{
     background:transparent;
     color:var(--color-shade-900) !important;
     text-decoration:none !important;
-    color:var(--color-blue-700) !important;
+    color:var(--color-shade-900) !important;
     font-size:var(--text-bigparagraph);
     line-height:1;
     height:auto;
